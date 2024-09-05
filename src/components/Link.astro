@@ -2,7 +2,6 @@
 import Instagram from './icons/instagram.astro';
 import Linkedin from './icons/linkedin.astro';
 import Url from './icons/url.astro';
-import Youtube from './icons/youtube.astro';
 import Pdf from './icons/pdf.astro';
 import Github from './icons/github.astro';
 
@@ -21,7 +20,6 @@ const { icon, title, description, url } = Astro.props;
     {icon === 'instagram' && <Instagram />}
     {icon === 'linkedin' && <Linkedin />}
     {icon === 'url' && <Url />}
-    {icon === 'youtube' && <Youtube />}
     {icon === 'github' && <Github />}
     {icon === 'pdf' && <Pdf />}
   </span>
