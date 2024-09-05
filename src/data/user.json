@@ -1,0 +1,36 @@
+{
+  "name": "Mohamed Samy",
+  "profession": "FullStack Developer at AutoDrop",
+  "links": [
+    {
+      "url": "https://mohamedsamy.vercel.app",
+      "icon": "url",
+      "title": "Personal Portfolio",
+      "description": "All about me 🚀"
+    },
+    {
+      "url": "https://www.linkedin.com/in/mohamed3samy",
+      "icon": "linkedin",
+      "title": "Linkedin Profile",
+      "description": "My Linkedin"
+    },
+    {
+      "url": "https://github.com/mohamed3samy",
+      "icon": "github",
+      "title": "Github Profile",
+      "description": "My Github"
+    },
+    {
+      "url": "https://www.instagram.com/mohamed3samy",
+      "icon": "instagram",
+      "title": "Instagram Profile",
+      "description": "My personal Instagram"
+    },
+    {
+      "url": "https://mohamedsamy.vercel.app/mohamedsamy.pdf",
+      "icon": "pdf",
+      "title": "Resume",
+      "description": "My Resume in PDF format"
+    }
+  ]
+}
